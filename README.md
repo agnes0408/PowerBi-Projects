@@ -75,7 +75,4 @@ It was developed as part of a **Data Analytics course assignment** to explore re
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/E-Commerce-Sales-Analysis-PowerBI.git
+
